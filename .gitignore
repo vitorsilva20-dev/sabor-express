@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+main.c
+main.exe
+.vscode/
